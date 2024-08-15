@@ -1,0 +1,78 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Aug 14 14:30:52 2024
+[*]
+[dumpfile] "D:\verilogs\mul\mul.vcd"
+[dumpfile_mtime] "Wed Aug 14 14:16:44 2024"
+[dumpfile_size] 4326
+[savefile] "D:\verilogs\mul\aa.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -165 -165
+*-14.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 221
+@24
+testbench.CON.LdA
+testbench.CON.LdB
+testbench.CON.LdP
+testbench.CON.S0
+testbench.CON.S1
+testbench.CON.S2
+@25
+testbench.CON.S3
+@24
+testbench.CON.S4
+testbench.CON.clk
+testbench.CON.clrP
+testbench.CON.decB
+testbench.CON.done
+testbench.CON.eqz
+testbench.CON.start
+testbench.CON.state[2:0]
+testbench.DP.A.clk
+testbench.DP.A.din[15:0]
+testbench.DP.A.dout[15:0]
+testbench.DP.A.ld
+testbench.DP.AD.in1[15:0]
+testbench.DP.AD.in2[15:0]
+testbench.DP.AD.out[15:0]
+testbench.DP.B.clk
+testbench.DP.B.dec
+testbench.DP.B.din[15:0]
+testbench.DP.B.dout[15:0]
+testbench.DP.B.ld
+testbench.DP.Bout[15:0]
+testbench.DP.Bus[15:0]
+testbench.DP.COMP.data[15:0]
+testbench.DP.COMP.eqz
+testbench.DP.LdA
+testbench.DP.LdB
+testbench.DP.LdP
+testbench.DP.P.clk
+testbench.DP.P.clr
+testbench.DP.P.din[15:0]
+testbench.DP.P.dout[15:0]
+testbench.DP.P.ld
+testbench.DP.X[15:0]
+testbench.DP.Y[15:0]
+testbench.DP.Z[15:0]
+testbench.DP.clk
+testbench.DP.clrP
+testbench.DP.data_in[15:0]
+testbench.DP.decB
+testbench.DP.eqz
+testbench.LdA
+testbench.LdB
+testbench.LdP
+testbench.clk
+testbench.clrP
+testbench.data_in[15:0]
+testbench.decB
+testbench.done
+testbench.eqz
+testbench.start
+[pattern_trace] 1
+[pattern_trace] 0
