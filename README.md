@@ -12,11 +12,11 @@ Process:
 
 3--> Run the TERMINAL from that FOLDER.
 
-4--> Instantiate iverilog by command ----  iverilog -o    FOLDER_NAME    MULTIPLICATION_MODULE_NAME   TESTBENCH_MODULE_NAME
+4--> Instantiate iverilog by command ----  iverilog -o            FOLDER_NAME            MULTIPLICATION_MODULE_NAME             TESTBENCH_MODULE_NAME
 
-5--> Then use the command for output ----  vvp FOLDER_NAME
+5--> Then use the command for output ----  vvp       FOLDER_NAME
 
-6--> Then use the command for wave output --- gtkwave    VCD_FILE_NAME.vcd
+6--> Then use the command for wave output --- gtkwave             VCD_FILE_NAME.vcd
 
 
 
